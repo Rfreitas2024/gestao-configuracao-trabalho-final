@@ -1,1 +1,2 @@
 criei variaveis com marcas de notebook ACER=10 DELL=10 LENOVO=10 SONY=10 POSITIVO=10
+criei variaveis com marcas de notebook ACER=10 DELL=10 LENOVO=10 SONY=10 POSITIVO=10
